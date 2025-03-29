@@ -33,7 +33,7 @@ The methodology involves:
 ![AMR Trends and Projections](results/complete_resistance_analysis.pdf)
 
 ### Economic Burden Projection
-![Economic Burden Projection](results/economic_burden.pdf)
+![Economic Burden Projection](results/economic_burden_plot.pdf)
 
 ## Installation Instructions
 To run the code in this repository, you need to have Python installed along with the following libraries:
