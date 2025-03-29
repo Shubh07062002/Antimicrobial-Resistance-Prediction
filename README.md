@@ -30,7 +30,7 @@ The methodology involves:
 ## Visualizations
 
 ### AMR Trends and Projections (2000-2050)
-![AMR Trends and Projections](results/complete_resistance_analysis.pdf)
+![AMR Trends and Projections](results/complete_resistance_analysis.png)
 
 ### Economic Burden Projection
 ![Economic Burden Projection](results/economic_burden.pdf)
