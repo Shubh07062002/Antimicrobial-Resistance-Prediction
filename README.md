@@ -40,3 +40,7 @@ To run the code in this repository, you need to have Python installed along with
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn biopython plotly bokeh statsmodels prophet
+```
+
+## Full Report
+The complete project report is available ![here](docs/AMR_Projct_Report.pdf)
