@@ -30,10 +30,10 @@ The methodology involves:
 ## Visualizations
 
 ### AMR Trends and Projections (2000-2050)
-![AMR Trends and Projections](results/complete_resistance_analysis.png)
+![AMR Trends and Projections](results/complete_resistance_analysis.pdf)
 
 ### Economic Burden Projection
-![Economic Burden Projection](results/economic_burden.png)
+![Economic Burden Projection](results/economic_burden.pdf)
 
 ## Installation Instructions
 To run the code in this repository, you need to have Python installed along with the following libraries:
