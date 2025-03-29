@@ -44,3 +44,8 @@ pip install pandas numpy scikit-learn matplotlib seaborn biopython plotly bokeh 
 
 ## Full Report
 The complete project report is available ![here](docs/AMR_Project_Report.pdf)
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Project: Masters](https://img.shields.io/badge/Project-Masters-green.svg)]()
