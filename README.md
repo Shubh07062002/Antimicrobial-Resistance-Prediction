@@ -43,4 +43,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn biopython plotly bokeh 
 ```
 
 ## Full Report
-The complete project report is available ![here](docs/AMR_Projct_Report.pdf)
+The complete project report is available ![here](docs/AMR_Project_Report.pdf)
