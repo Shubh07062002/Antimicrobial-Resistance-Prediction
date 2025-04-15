@@ -1,4 +1,4 @@
-# Predicting Antimicrobial Resistance (AMR) in Microbial Genomes and Cost Burden Analysis Using Machine Learning
+# Predicting Antimicrobial Resistance (AMR) in Campylobacter and Cost Burden Analysis Using Machine Learning
 
 ## Overview
 This project aims to analyze patterns of antimicrobial resistance (AMR) in *Campylobacter jejuni* and *C. coli* isolates from Scotland and England. It utilizes machine learning and statistical modeling to predict AMR phenotypes from genomic and epidemiological data, and to forecast the future clinical and economic burden of AMR in the UK.
